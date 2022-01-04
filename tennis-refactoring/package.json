@@ -1,0 +1,13 @@
+{
+  "name": "tennis-kata",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.4.0",
+    "@types/node": "^17.0.7",
+    "jest": "^27.4.5",
+    "jest-each": "^27.4.2"
+  }
+}
